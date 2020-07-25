@@ -18,9 +18,9 @@ include disable-xdg.inc
 caps.drop all
 netfilter
 nodvd
-nogroups
+# nogroups
 nonewprivs
-noroot
+# noroot
 nosound
 notv
 # novideo
